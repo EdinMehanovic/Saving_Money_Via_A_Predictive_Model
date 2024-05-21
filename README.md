@@ -4,4 +4,4 @@ This was my final write up of my data science capstone project, in which we were
 ## Results
 Our team was able to get an accuracy of 87.3%. And after conviening with some of the employees that worked on this project previously, they were amazed at the accuracy we were able to acheieve. After acheiving this, we also implemented a feature in which the user could type in their own prompt, and our model would try to predict it. Also, we ran a seperate version of the model again but only sampled a small portion of it, we were only able to get an accuracy of 58.6%, a lot less than our initial model, but we did lose about 90% of data for this version. We did the same procedure where the user could type in a prompt and our model would try to predict it. 
 ## How to view
-Simply click on Saving_Money_Via_A_Predictive_Model.ipynb to view the full writeup our team gave to both the professor and the employees that worked on this previously.
+Simply click on Saving_Money_Via_A_Predictive_Model.ipynb to view the full writeup our team gave to both the professor and the shareholders.
